@@ -16,4 +16,4 @@ Welcome to my Salesforce learning repository! Here, I document my progress throu
 3-7-2025: Completed [Prompt Builder Basics](./trailhead-modules/prompt-builder-basics.md), explored AI prompt templates.
 
 ## 💡 Connect with Me
-📌 [LinkedIn](https://linkedin.com/in/gfriley) | 🏆 [Trailhead Profile]([your-trailhead-link](https://www.salesforce.com/trailblazer/gfriley2))
+📌 [LinkedIn](https://linkedin.com/in/gfriley) | 🏆 [Trailhead Profile](https://www.salesforce.com/trailblazer/gfriley2)
